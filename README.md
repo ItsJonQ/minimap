@@ -28,6 +28,10 @@ The state values of the map are represented below:
 | `8`   | Linked item                            |
 | `9`   | Disabled item                          |
 
+## Movement (Demo)
+
+**[Matrix movement demo on Codepen](https://codepen.io/ItsJonQ/pen/qKreKK)**
+
 ## Example: Flat menu
 
 A menu is list items:
@@ -101,8 +105,6 @@ Pressing down again will result in:
 1
 2
 ```
-
-**[Matrix movement demo](https://codepen.io/ItsJonQ/pen/qKreKK)**
 
 ## Example: Nested menu
 
