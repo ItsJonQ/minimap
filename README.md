@@ -308,7 +308,6 @@ Events will be broadcasted on every state change.
 
 ## Inspiration/references
 
-* Game map design
-* Collision detection
-* State machines
-* Redux
+* [Game map design (e.g. Tetrix)](https://codeincomplete.com/posts/javascript-tetris/)
+* [Collision detection](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection)
+* [Redux](https://redux.js.org/)
