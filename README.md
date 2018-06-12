@@ -1,4 +1,4 @@
-# Minimap
+# 🗺 Minimap
 
 > A tiny state machine to track menu interactions.
 
